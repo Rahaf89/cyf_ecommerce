@@ -1,0 +1,19 @@
+{
+  "name": "cyf-ecommerce-api",
+  "version": "0.0.1",
+  "description": "API",
+  "main": "server.js",
+  "scripts": {
+    "test": "API",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.18.2"
+  }
+}
